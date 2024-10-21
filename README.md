@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/monst3r-jupyter/blob/main/monst3r_gradio_jupyter.ipynb) | monst3r_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/monst3r-jupyter/blob/main/monst3r_jupyter.ipynb) | monst3r_jupyter
 
 ### 🧬 Code
 https://github.com/Junyi42/monst3r
